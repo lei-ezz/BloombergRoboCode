@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="robocode-1.9.3.5-setup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/robocode-1.9.3.5-setup.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/robocode-1.9.3.5-setup.jar!/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/robocode-1.9.3.5-setup.jar!/compilers" />
+      <root url="jar://$PROJECT_DIR$/robocode-1.9.3.5-setup.jar!/robots" />
+    </SOURCES>
+  </library>
+</component>
